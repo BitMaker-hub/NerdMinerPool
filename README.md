@@ -1,0 +1,2 @@
+# NerdMinerPool
+The TeamNerdMinerPool
